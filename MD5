@@ -1,0 +1,10 @@
+6e25ef1b15be2cfca5367144e32082b1 *DESCRIPTION
+a9bc78af53747a44452ba1d8aa5a6c79 *NAMESPACE
+284c41e3d3c284242c193fe0140ae6f3 *R/RcppExports.R
+b26b712df39b800ac9455bab88369782 *R/data.R
+08cfa8df5855dbbb512b9adaf02df896 *R/woa_kmedoids.R
+fb3d5280feea2fc826508bc81131b4b5 *data/Lightning7.rda
+ceeb4d8ae60dc532acf6955d7c76bf4e *man/Lightning7.Rd
+b202770ea73e3cea7152c0b9379d693a *man/woa_kmedoids.Rd
+3ce04ae82a488077c727f6b8f8dbd083 *src/RcppExports.cpp
+307fb32dceb7f4eeabd7993e0fce173a *src/totalDistance.cpp
